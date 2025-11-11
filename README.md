@@ -1,14 +1,5 @@
 # ElSan7o-dev
 
-#¡Entendido! Es un cambio excelente, MongoDB es una tecnología muy demandada.
-
-Aquí tienes el código README.md actualizado, reemplazando el badge de C por el de MongoDB.
-
-✍️ Tu README.md (Versión Actualizada)
-Simplemente copia y pega este código en tu archivo README.md. El cambio ya está aplicado en la sección "Mi Stack Tecnológico".
-
-Markdown
-
 # ¡Hola! 👋 Soy Santiago
 
 > Soy un desarrollador de Barranqueras, Chaco (Argentina) 🇦🇷.
